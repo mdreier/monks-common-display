@@ -1,7 +1,7 @@
 {
 	"title": "Monk's Common Display",
 	"description": "Set up a display without all the ui so that it can be displayed on an alternate screen",
-	"version": "14.01",
+	"version": "14.01.mdreier1",
 	"socket": true,
 	"authors": [
 		{
@@ -35,7 +35,7 @@
 	],
 	"url": "https://github.com/ironmonk108/monks-common-display",
 	"download": "https://github.com/ironmonk108/monks-common-display/archive/14.01.zip",
-	"manifest": "https://github.com/ironmonk108/monks-common-display/releases/latest/download/module.json",
+	"manifest": "https://raw.githubusercontent.com/mdreier/monks-common-display/refs/heads/main/module.json",
 	"bugs": "https://github.com/ironmonk108/monks-common-display/issues",
 	"id": "monks-common-display",
 	"compatibility": {
