@@ -34,7 +34,7 @@
 		"css/monks-common-display.css"
 	],
 	"url": "https://github.com/ironmonk108/monks-common-display",
-	"download": "https://github.com/ironmonk108/monks-common-display/archive/14.01.zip",
+	"download": "https://github.com/mdreier/monks-common-display/archive/refs/tags/13.0.1.zip",
 	"manifest": "https://raw.githubusercontent.com/mdreier/monks-common-display/refs/heads/main/module.json",
 	"bugs": "https://github.com/ironmonk108/monks-common-display/issues",
 	"id": "monks-common-display",
